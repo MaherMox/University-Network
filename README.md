@@ -5,6 +5,14 @@ It represents the design and configuration of a scalable network infrastructure 
 
 ---
 
+## 🖼️ Network Topology
+
+![University Network Topology](network-topology.png)
+
+*(The diagram shows the interconnected faculties and administration building with VLANs, routers, and switches.)*
+
+---
+
 ## 🔹 Project Overview
 The network is built to simulate a real university environment, including:
 
