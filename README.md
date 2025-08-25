@@ -17,7 +17,7 @@ It represents the design and configuration of a scalable network infrastructure 
 The network is built to simulate a real university environment, including:
 
 - **Administration Building**  
-- **Faculty of Computer Science**  
+- **Faculty of Computer Science**  (Ai, It, Cs)
 - **Faculty of Medicine** (Neurology, Nursing, Pharmacy)  
 - **Faculty of Engineering** (Electronics, Network, Electrical)  
 
